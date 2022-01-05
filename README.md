@@ -63,6 +63,7 @@ I work with many different technologies and languages, but my favorites are **Ja
 <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" title="MongoDB" alt="MongoDB Logo" width="66"/> &emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/npm.svg" title="npm" alt="npm Logo" width="140"/> &emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/yarn.svg" title="Yarn" alt="Yarn Logo" width="58"/> &emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" title="Flutter" alt="Flutter Logo" width="66"/> &emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" title="Docker" alt="Docker Logo" width="66"/> &emsp;
 
 ## Most used Technologies 
