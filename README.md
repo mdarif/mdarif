@@ -57,6 +57,7 @@ I work with many different technologies and languages, but my favorites are **Ja
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="JavaScript" alt="JavaScript Logo" width="57" /> &emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" title="TypeScript" alt="TypeScript Logo" width="57" /> &emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" title="React JS" alt="React Logo" width="66" /> &emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/redux.svg" title="Redux" alt="Redux Logo" width="66" /> &emsp;
 <img src="https://react-query.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg" alt="React Query" width="66" /> &emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" title="Next JS" alt="Next JS Logo" width="66"/> &emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" title="Node JS" alt="Node JS Logo" width="96"/> &emsp;
