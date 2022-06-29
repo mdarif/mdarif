@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi there 👋, I am Mohammad Arif
 
-I am **A Leader, Mentor & UI Architect at Royal Bank of Scotland** having more than 19 years of extensive experience in all phases of small to enterprise-scale projects.
+I am **A Leader, Mentor & UI Architect at NatWest Group** having more than 19 years of extensive experience in all phases of small to enterprise-scale projects.
 
 I am also passionate about blogging and have published numerous articles.
 
@@ -24,7 +24,7 @@ I am also passionate about blogging and have published numerous articles.
 - 👯 I'm looking to collaborate on open source
 - 💬 Ask me about **JavaScript**
 - 📫 Reach me through **Twitter DMs** or my **Email Address**
-- ⚡ I write code without drinking coffee
+- ⚡ I write code without drinking coffee, yes that's true :)
 
 
 <a href="https://www.linkedin.com/in/mohdarif">
