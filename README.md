@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi there 👋, I am Mohammad Arif
 
-I am **A Leader, Mentor & UI Architect at NatWest Group** having more than 19 years of extensive experience in all phases of small to enterprise-scale projects.
+I am **A Leader, Mentor & UI Architect @ NatWest Group**, India. I am responsible for **architecting** and **coding** modern and complex technology end to end solutions for multiple large sized organisations. My work spans across web technology paradigm to build immersive digital experience for global client.
 
 I am also passionate about blogging and have published numerous articles.
 
