@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there 👋, I am Mohammad Arif
+# Hi there 👋
 
 I am **A Leader, Mentor & UI Architect @ NatWest Group**, India. I am responsible for **architecting** and **coding** modern and complex technology end to end solutions for multiple large sized organisations. My work spans across web technology paradigm to build immersive digital experience for global client.
 
@@ -29,7 +29,7 @@ I am **A Leader, Mentor & UI Architect @ NatWest Group**, India. I am responsibl
 ![Arif's GitHub stats](https://github-readme-stats.vercel.app/api/?username=mdarif&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 ### Work
-It is with pleasure that I present github bio for your review. As an accomplished leader in Digital Platform & Frontend Development with more than 19 years of experience while working in companies like **NatWest Group** & **Publicis Sapient**.
+It is with pleasure that I present github bio. As an accomplished leader in **Digital Platform** & **Frontend Development** with more than 19 years of experience while working in companies like **NatWest Group** & **Publicis Sapient**.
 
 
 ### Tech Stack
