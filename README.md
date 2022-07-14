@@ -19,12 +19,12 @@ I am **A Leader, Mentor & UI Architect at NatWest Group** having more than 19 ye
 
 I am also passionate about blogging and have published numerous articles.
 
-- 🔭 I'm currently working on MERN
-- 🌱 I'm currently learning **TypeScript** and **Next.js**
+- 🔭 I'm currently working on **MERN**
+- 🌱 I'm currently exploring **Apollo Server/Client**
 - 👯 I'm looking to collaborate on open source
-- 💬 Ask me about **JavaScript**
-- 📫 Reach me through **Twitter DMs** or my **Email Address**
+- 💬 Ask me about **JavaScript/React**
 - ⚡ I write code without drinking coffee, yes that's true :)
+- 📫 Reach me through **Twitter DMs** or **Email Address**
 
 
 <a href="https://www.linkedin.com/in/mohdarif">
