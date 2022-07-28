@@ -22,7 +22,7 @@ I am **A Leader, Mentor & UI Architect @ NatWest Group**, India. I am responsibl
 - 👯 I'm looking to collaborate on open source
 - 💬 Ask me about **JavaScript/React**
 - ⚡ I write code without drinking coffee, yes that's true :)
-- 📫 Reach me through **Twitter DMs** or **Email Address**
+- 📫 Reach me through **Twitter DMs** or **Email**
 
 
 ### Stats
