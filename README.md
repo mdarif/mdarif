@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I am **A Leader, Mentor & UI Architect @ NatWest Group**, India. I am responsible for **architecting** and **coding** modern and complex technology end to end solutions for multiple large sized organisations. My work spans across web technology paradigm to build immersive digital experience for global client.
 
-- 🔭 I'm currently working on **MERN**
+- 🔭 I'm currently working on **React Native**
 - 🌱 I'm currently exploring **Apollo Server/Client**
 - 👯 I'm looking to collaborate on open source
 - 💬 Ask me about **JavaScript/React**
