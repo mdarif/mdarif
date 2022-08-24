@@ -40,7 +40,7 @@ I work with many different technologies and languages, but my favorites are **Ja
 <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" title="TypeScript" alt="TypeScript Logo" width="50" /> &emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" title="React JS" alt="React Logo" width="50" /> &emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" title="Redux" alt="Redux Logo" width="50" /> &emsp;
-<img src="https://symbols.getvecta.com/stencil_85/20_jest-icon.aff64ab210.svg" title="Jest" alt="Jest Logo" width="50" /> &emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/jest-2.svg" title="Jest" alt="Jest Logo" width="50" /> &emsp;
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" title="Cypress" alt="Cypress Logo" width="50" /> &emsp;
 <img src="https://react-query-v2.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg" alt="React Query" width="50" /> &emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" title="Next JS" alt="Next JS Logo" width="50"/> &emsp;
