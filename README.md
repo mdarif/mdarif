@@ -57,27 +57,27 @@ Here are some ideas to get you started:
 I work with many different technologies and languages, but my favorites are **JavaScript**, **React.js**, **Next.js**, **Node.js**, and **Express.js**.
 
 <p align="center">
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="JavaScript" alt="JavaScript Logo" width="50" /> &emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" title="TypeScript" alt="TypeScript Logo" width="50" /> &emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" title="React JS" alt="React Logo" width="50" /> &emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/redux.svg" title="Redux" alt="Redux Logo" width="50" /> &emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/jest-2.svg" title="Jest" alt="Jest Logo" width="50" /> &emsp;
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" title="Cypress" alt="Cypress Logo" width="50" /> &emsp;
-<img src="https://react-query-v2.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg" alt="React Query" width="50" /> &emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" title="Next JS" alt="Next JS Logo" width="50"/> &emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" title="Node JS" alt="Node JS Logo" width="50"/> &emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" title="MySQL" alt="MySQL Logo" width="50"/> &emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" title="MongoDB" alt="MongoDB Logo" width="50"/> &emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" title="HTML" alt="HTML Logo" width="50" /> &emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" title="CSS" alt="CSS Logo" width="50" /> &emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" title="SASS" alt="SASS Logo" width="50" /> &emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" title="Bootstrap" alt="Bootstrap Logo" width="50" /> &emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" title="Tailwind CSS" alt="Tailwind CSS Logo" width="50" /> &emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/npm.svg" title="npm" alt="npm Logo" width="50"/> &emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/yarn.svg" title="Yarn" alt="Yarn Logo" width="50"/> &emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" title="Flutter" alt="Flutter Logo" width="50"/> &emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/docker.svg" title="Docker" alt="Docker Logo" width="50"/> &emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" title="AWS" alt="AWS Logo" width="50"/> &emsp;
+<img src="https://github.com/mdarif/mdarif/blob/main/icons/js.png" height="40"> &nbsp; &nbsp; 
+<img src="https://github.com/mdarif/mdarif/blob/main/icons/typescript.png" height="40"> &nbsp; &nbsp; 
+<img src="https://github.com/mfarif/mfarif/blob/main/icons/react.png" height="40"> &nbsp; &nbsp; 
+<img src="https://github.com/mfarif/mfarif/blob/main/icons/redux.png" height="40">&nbsp; &nbsp; 
+<img src="https://github.com/mfarif/mfarif/blob/main/icons/jest.png" height="40">&nbsp; &nbsp; 
+<img src="https://github.com/mfarif/mfarif/blob/main/icons/cypress.png" height="40">&nbsp; &nbsp; 
+<img src="https://github.com/mfarif/mfarif/blob/main/icons/react-query.png" height="40">&nbsp; &nbsp; 
+<img src="https://github.com/mfarif/mfarif/blob/main/icons/next-js.png" height="40">&nbsp; &nbsp; 
+<img src="https://github.com/mfarif/mfarif/blob/main/icons/nodejs.png" height="40">&nbsp; &nbsp; 
+<img src="https://github.com/mfarif/mfarif/blob/main/icons/mysql.png" height="40">&nbsp; &nbsp; 
+<img src="https://github.com/mfarif/mfarif/blob/main/icons/mongo.png" height="40">&nbsp; &nbsp; 
+<img src="https://github.com/mfarif/mfarif/blob/main/icons/html5.png" height="40">&nbsp; &nbsp; 
+<img src="https://github.com/mfarif/mfarif/blob/main/icons/css.png" height="40">&nbsp; &nbsp; 
+<img src="https://github.com/mfarif/mfarif/blob/main/icons/sass.png" height="40">&nbsp; &nbsp; 
+<img src="https://github.com/mfarif/mfarif/blob/main/icons/bootstrap.png" height="40">&nbsp; &nbsp; 
+<img src="https://github.com/mfarif/mfarif/blob/main/icons/tailwind.png" height="40">&nbsp; &nbsp; 
+<img src="https://github.com/mfarif/mfarif/blob/main/icons/npm.png" height="40">&nbsp; &nbsp; 
+<img src="https://github.com/mfarif/mfarif/blob/main/icons/yarn.png" height="40">&nbsp; &nbsp; 
+<img src="https://github.com/mfarif/mfarif/blob/main/icons/flutter.png" height="40">&nbsp; &nbsp; 
+<img src="https://github.com/mfarif/mfarif/blob/main/icons/docker.png" height="40">&nbsp; &nbsp; 
+<img src="https://github.com/mfarif/mfarif/blob/main/icons/aws.png" height="40">&nbsp; &nbsp; 
 </p>
 
 <!-- ### Contact
