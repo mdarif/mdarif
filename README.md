@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="mailto:arif.mohammed@gmail.com" target="_blank"><img height="40" src = "https://github.com/mdarif/mdarif/blob/main/icons/mail.png"></a>
-  <a href="https://www.linkedin.com/in/mohdarif" target="_blank"><img height="40" src = "https://github.com/mdarif/mdarif/blob/main/icons/linkedin.png"></a>&nbsp;&nbsp;<a href="https://himakhaitan.medium.com/" target="_blank"><img height="40" src = "https://github.com/mdarif/mdarif/blob/main/icons/medium.png"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mohdarif" target="_blank"><img height="40" src = "https://github.com/mdarif/mdarif/blob/main/icons/linkedin.png"></a>&nbsp;&nbsp;<a href="https://md-arif.medium.com/" target="_blank"><img height="40" src = "https://github.com/mdarif/mdarif/blob/main/icons/medium.png"></a>&nbsp;&nbsp;
   <a href="https://twitter.com/arif_iq" target="_blank"><img height="40" src = "https://github.com/mdarif/mdarif/blob/main/icons/twitter.png"></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/arif_iq" target="_blank"><img height="40" src = "https://github.com/mdarif/mdarif/blob/main/icons/insta.png"></a>&nbsp;&nbsp;<a href="https://dev.to/hima_khaitan" target="_blank"><img height="40" src = "https://github.com/mdarif/mdarif/blob/main/icons/dev.png"></a>
 </p>
