@@ -15,27 +15,48 @@ Here are some ideas to get you started:
 
 # Hi there 👋
 
-I am **A Leader, Mentor & UI Architect @ NatWest Group**, India. I am responsible for **architecting** and **coding** modern and complex technology end to end solutions for multiple large sized organisations. My work spans across web technology paradigm to build immersive digital experience for global client.
+<p align="center">I am <strong>A Leader, Mentor & UI Architect @ NatWest Group</strong>, India. I am responsible for <strong>architecting</strong> and <strong>coding</strong> modern and complex technology end to end solutions for multiple large sized organisations. My work spans across web technology paradigm to build immersive digital experience for global client.</p>
 
-- 🔭 I'm currently working on **React Native**
+<p align="center">
+  <a href="mailto:arif.mohammed@gmail.com" target="_blank"><img height="40" src = "https://github.com/arifmd/arifmd/blob/main/icons/mail.png"></a>
+  <a href="https://www.linkedin.com/in/mohdarif" target="_blank"><img height="40" src = "https://github.com/arifmd/arifmd/blob/main/icons/linkedin.png"></a>&nbsp;&nbsp;<a href="https://himakhaitan.medium.com/" target="_blank"><img height="40" src = "https://github.com/arifmd/arifmd/blob/main/icons/medium.png"></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/arif_iq" target="_blank"><img height="40" src = "https://github.com/arifmd/arifmd/blob/main/icons/twitter.png"></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/arif_iq" target="_blank"><img height="40" src = "https://github.com/arifmd/arifmd/blob/main/icons/insta.png"></a>&nbsp;&nbsp;<a href="https://dev.to/hima_khaitan" target="_blank"><img height="40" src = "https://github.com/arifmd/arifmd/blob/main/icons/dev.png"></a>
+</p>
+
+<br />
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mdarif&theme=tokyonight&hide_border=true&fire=DD2727"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=mdarif&show_icons=true&hide_border=true&theme=tokyonight&hide_border=true&fire=DD2727"/>
+
+</p>
+<!-- <h3 align="center">- Profile Visits -</h3>
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/arifmd/count.svg">
+</p> -->
+
+
+<!-- - 🔭 I'm currently working on **React Native**
 - 🌱 I'm currently exploring **Apollo Server/Client**
 - 👯 I'm looking to collaborate on open source
 - 💬 Ask me about **JavaScript/React**
 - ⚡ I write code without drinking coffee, yes that's true :)
-- 📫 Reach me through **Twitter DMs** or **Email**
+- 📫 Reach me through **Twitter DMs** or **Email** -->
 
 
-### Stats
-![Arif's GitHub stats](https://github-readme-stats.vercel.app/api/?username=mdarif&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<!-- ### Stats
+![Arif's GitHub stats](https://github-readme-stats.vercel.app/api/?username=mdarif&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
 
-### Work
-It is with pleasure that I present github bio. As an accomplished leader in **Digital Platform** & **Frontend Development** with more than 19 years of experience while working in companies like **NatWest Group** & **Publicis Sapient**.
+<!--### Work
+ It is with pleasure that I present github bio. As an accomplished leader in **Digital Platform** & **Frontend Development** with more than 19 years of experience while working in companies like **NatWest Group** & **Publicis Sapient**. -->
 
 
-### Tech Stack
+<h2 align="center">⚡ Stuff I Know</h2>
  
 I work with many different technologies and languages, but my favorites are **JavaScript**, **React.js**, **Next.js**, **Node.js**, and **Express.js**.
 
+<p align="center">
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="JavaScript" alt="JavaScript Logo" width="50" /> &emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" title="TypeScript" alt="TypeScript Logo" width="50" /> &emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" title="React JS" alt="React Logo" width="50" /> &emsp;
@@ -57,8 +78,9 @@ I work with many different technologies and languages, but my favorites are **Ja
 <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" title="Flutter" alt="Flutter Logo" width="50"/> &emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" title="Docker" alt="Docker Logo" width="50"/> &emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" title="AWS" alt="AWS Logo" width="50"/> &emsp;
+</p>
 
-### Contact
+<!-- ### Contact
 I'm convinced that software and technology's impact continues to be a net possitive in the world. But we can always do more, and do better.
 
 <a href="https://www.linkedin.com/in/mohdarif">
@@ -75,8 +97,12 @@ I'm convinced that software and technology's impact continues to be a net possit
 </a> &ensp;
 <a href="https://www.instagram.com/arif_iq">
   <img src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" title="Instagram" alt="Instagram Account" width="30" />
-</a> &ensp;
+</a> &ensp; -->
 
-### Most used Technologies 
+<h2 align="center">⚡ Most used Technologies</h2>
+<!-- ### Most used Technologies  -->
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdarif&layout=compact&langs_count=7)](https://github.com/mdarif/github-readme-stats)
+<p align="center">
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdarif&layout=compact&langs_count=7)](https://github.com/mdarif/github-readme-stats) -->
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdarif&layout=compact&langs_count=7)](https://github.com/mdarif/github-readme-stats"/>
+</p>
