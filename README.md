@@ -77,7 +77,7 @@ I work with many different technologies and languages, but my favorites are **Ja
 <img src="https://github.com/mdarif/mdarif/blob/main/icons/yarn.svg" height="40">&nbsp; &nbsp; 
 <img src="https://github.com/mdarif/mdarif/blob/main/icons/flutter.svg" height="40">&nbsp; &nbsp; 
 <img src="https://github.com/mdarif/mdarif/blob/main/icons/docker.svg" height="40">&nbsp; &nbsp; 
-<img src="https://github.com/mfarif/mfarif/blob/main/icons/aws.svg" height="40">&nbsp; &nbsp; 
+<img src="https://github.com/mdarif/mdarif/blob/main/icons/aws.svg" height="40">&nbsp; &nbsp; 
 </p>
 
 <!-- ### Contact
