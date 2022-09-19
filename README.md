@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 <p align="center">I am <strong>A Leader, Mentor & UI Architect @ NatWest Group</strong>, India. I am responsible for <strong>architecting</strong> and <strong>coding</strong> modern and complex technology end to end solutions for multiple large sized organisations. My work spans across web technology paradigm to build immersive digital experience for global client.</p>
 
 <p align="center">
-  <a href="mailto:arif.mohammed@gmail.com" target="_blank"><img height="40" src = "https://github.com/arifmd/arifmd/blob/main/icons/mail.png"></a>
-  <a href="https://www.linkedin.com/in/mohdarif" target="_blank"><img height="40" src = "https://github.com/arifmd/arifmd/blob/main/icons/linkedin.png"></a>&nbsp;&nbsp;<a href="https://himakhaitan.medium.com/" target="_blank"><img height="40" src = "https://github.com/arifmd/arifmd/blob/main/icons/medium.png"></a>&nbsp;&nbsp;
-  <a href="https://twitter.com/arif_iq" target="_blank"><img height="40" src = "https://github.com/arifmd/arifmd/blob/main/icons/twitter.png"></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/arif_iq" target="_blank"><img height="40" src = "https://github.com/arifmd/arifmd/blob/main/icons/insta.png"></a>&nbsp;&nbsp;<a href="https://dev.to/hima_khaitan" target="_blank"><img height="40" src = "https://github.com/arifmd/arifmd/blob/main/icons/dev.png"></a>
+  <a href="mailto:arif.mohammed@gmail.com" target="_blank"><img height="40" src = "https://github.com/mdarif/mdarif/blob/main/icons/mail.png"></a>
+  <a href="https://www.linkedin.com/in/mohdarif" target="_blank"><img height="40" src = "https://github.com/mdarif/mdarif/blob/main/icons/linkedin.png"></a>&nbsp;&nbsp;<a href="https://himakhaitan.medium.com/" target="_blank"><img height="40" src = "https://github.com/mdarif/mdarif/blob/main/icons/medium.png"></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/arif_iq" target="_blank"><img height="40" src = "https://github.com/mdarif/mdarif/blob/main/icons/twitter.png"></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/arif_iq" target="_blank"><img height="40" src = "https://github.com/mdarif/mdarif/blob/main/icons/insta.png"></a>&nbsp;&nbsp;<a href="https://dev.to/hima_khaitan" target="_blank"><img height="40" src = "https://github.com/mdarif/mdarif/blob/main/icons/dev.png"></a>
 </p>
 
 <br />
