@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi there 👋
 
-<p align="center">I am <strong>A Leader, Mentor & UI Architect @ NatWest Group</strong>, India. I am responsible for <strong>architecting</strong> and <strong>coding</strong> modern and complex technology end to end solutions for multiple large sized organisations. My work spans across web technology paradigm to build immersive digital experience for global client.</p>
+<p align="center">I am a<strong> Principal Engineer @ Advisor360°</strong>, India. I am responsible for <strong>architecting</strong> and <strong>coding</strong> modern and complex technology end to end solutions for multiple large sized organisations. My work spans across web technology paradigm to build immersive digital experience for global client.</p>
 
 <p align="center">
   <a href="mailto:arif.mohammed@gmail.com" target="_blank"><img height="40" src = "https://github.com/mdarif/mdarif/blob/main/icons/mail.png"></a>
