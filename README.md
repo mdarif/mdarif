@@ -38,9 +38,9 @@ Here are some ideas to get you started:
 
 
 <!-- - 🔭 I'm currently working on **React Native**
-- 🌱 I'm currently exploring **Apollo Server/Client**
+- 🌱 I'm currently exploring **Flutter**
 - 👯 I'm looking to collaborate on open source
-- 💬 Ask me about **JavaScript/React**
+- 💬 Ask me about **JavaScript/Angular**
 - ⚡ I write code without drinking coffee, yes that's true :)
 - 📫 Reach me through **Twitter DMs** or **Email** -->
 
@@ -54,27 +54,23 @@ Here are some ideas to get you started:
 
 <h2 align="center">⚡ Stuff I Know</h2>
  
-I work with many different technologies and languages, but my favorites are **JavaScript**, **Angular**, **RxJS**, **React.js**, **Next.js**, **Node.js**, and **Express.js**
+I work with many different technologies and languages, but my favorites are **JavaScript**, **Angular**, **RxJS**, **TypeScript**, **React.js**, **Node.js**, and **Express.js**
 
 <p align="center">
-<img src="https://github.com/mdarif/mdarif/blob/main/icons/js.png" height="40"> &nbsp; &nbsp; 
+<img src="https://github.com/mdarif/mdarif/blob/main/icons/js.png" height="40"> &nbsp; &nbsp;
+<img src="https://github.com/mdarif/mdarif/blob/main/icons/angular.png" height="40"> &nbsp; &nbsp; 
+<img src="https://github.com/mdarif/mdarif/blob/main/icons/rxjs.png" height="40"> &nbsp; &nbsp; 
 <img src="https://github.com/mdarif/mdarif/blob/main/icons/typescript.png" height="40"> &nbsp; &nbsp; 
 <img src="https://github.com/mdarif/mdarif/blob/main/icons/react.png" height="40"> &nbsp; &nbsp; 
 <img src="https://github.com/mdarif/mdarif/blob/main/icons/redux.png" height="40">&nbsp; &nbsp; 
 <img src="https://github.com/mdarif/mdarif/blob/main/icons/jest.svg" height="40">&nbsp; &nbsp; 
-<img src="https://github.com/mdarif/mdarif/blob/main/icons/cypress.png" height="40">&nbsp; &nbsp; 
 <img src="https://github.com/mdarif/mdarif/blob/main/icons/react-query.svg" height="40">&nbsp; &nbsp; 
-<img src="https://github.com/mdarif/mdarif/blob/main/icons/next-js.png" height="40">&nbsp; &nbsp; 
 <img src="https://github.com/mdarif/mdarif/blob/main/icons/nodejs.png" height="40">&nbsp; &nbsp; 
 <img src="https://github.com/mdarif/mdarif/blob/main/icons/mysql.svg" height="40">&nbsp; &nbsp; 
 <img src="https://github.com/mdarif/mdarif/blob/main/icons/mongo.png" height="40">&nbsp; &nbsp; 
 <img src="https://github.com/mdarif/mdarif/blob/main/icons/html5.png" height="40">&nbsp; &nbsp; 
 <img src="https://github.com/mdarif/mdarif/blob/main/icons/css.png" height="40">&nbsp; &nbsp; 
 <img src="https://github.com/mdarif/mdarif/blob/main/icons/sass.png" height="40">&nbsp; &nbsp; 
-<img src="https://github.com/mdarif/mdarif/blob/main/icons/bootstrap.png" height="40">&nbsp; &nbsp; 
-<img src="https://github.com/mdarif/mdarif/blob/main/icons/tailwind.svg" height="40">&nbsp; &nbsp; 
-<img src="https://github.com/mdarif/mdarif/blob/main/icons/npm.svg" height="40">&nbsp; &nbsp; 
-<img src="https://github.com/mdarif/mdarif/blob/main/icons/yarn.svg" height="40">&nbsp; &nbsp; 
 <img src="https://github.com/mdarif/mdarif/blob/main/icons/flutter.svg" height="40">&nbsp; &nbsp; 
 <img src="https://github.com/mdarif/mdarif/blob/main/icons/docker.svg" height="40">&nbsp; &nbsp; 
 <img src="https://github.com/mdarif/mdarif/blob/main/icons/aws.svg" height="40">&nbsp; &nbsp; 
