@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi there 👋
 
-<p align="center">I am a<strong> Principal Engineer @ Advisor360°</strong>, India. I am responsible for <strong>architecting</strong> and <strong>coding</strong> modern and complex technology end to end solutions. My work spans across web technology paradigm to build immersive digital experience for the company</p>
+<p align="center">I am a<strong> Principal Engineer @ Advisor360°</strong>, India. I am responsible for <strong>architecting</strong> and <strong>coding</strong> modern and complex technology end to end solutions. My work spans across web technology paradigm to build immersive digital experience for the company.</p>
 
 <p align="center">
   <a href="mailto:arif.mohammed@gmail.com" target="_blank"><img height="40" src = "https://github.com/mdarif/mdarif/blob/main/icons/mail.png"></a>
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 <h2 align="center">⚡ Stuff I Know</h2>
  
-I work with many different technologies and languages, but my favorites are **JavaScript**, **Angular**, **RxJS**, **React.js**, **Next.js**, **Node.js**, and **Express.js**.
+I work with many different technologies and languages, but my favorites are **JavaScript**, **Angular**, **RxJS**, **React.js**, **Next.js**, **Node.js**, and **Express.js**
 
 <p align="center">
 <img src="https://github.com/mdarif/mdarif/blob/main/icons/js.png" height="40"> &nbsp; &nbsp; 
