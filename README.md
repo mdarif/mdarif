@@ -63,8 +63,7 @@ I work with many different technologies and languages, but my favorites are **Ja
 <img src="https://github.com/mdarif/mdarif/blob/main/icons/typescript.png" height="40"> &nbsp; &nbsp; 
 <img src="https://github.com/mdarif/mdarif/blob/main/icons/react.png" height="40"> &nbsp; &nbsp; 
 <img src="https://github.com/mdarif/mdarif/blob/main/icons/redux.png" height="40">&nbsp; &nbsp; 
-<img src="https://github.com/mdarif/mdarif/blob/main/icons/jest.svg" height="40">&nbsp; &nbsp; 
-<img src="https://github.com/mdarif/mdarif/blob/main/icons/react-query.svg" height="40">&nbsp; &nbsp; 
+<img src="https://github.com/mdarif/mdarif/blob/main/icons/jest.png" height="40">&nbsp; &nbsp; 
 <img src="https://github.com/mdarif/mdarif/blob/main/icons/nodejs.png" height="40">&nbsp; &nbsp; 
 <img src="https://github.com/mdarif/mdarif/blob/main/icons/mysql.svg" height="40">&nbsp; &nbsp; 
 <img src="https://github.com/mdarif/mdarif/blob/main/icons/mongo.png" height="40">&nbsp; &nbsp; 
@@ -100,5 +99,6 @@ I'm convinced that software and technology's impact continues to be a net possit
  
 <p align="center">
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdarif&layout=compact&langs_count=7)](https://github.com/mdarif/github-readme-stats) -->
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdarif&layout=compact&langs_count=7)](https://github.com/mdarif/github-readme-stats"/>
+ <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdarif&layout=compact&langs_count=7)](https://github.com/mdarif/github-readme-stats"/> -->
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdarif&hide_progress=true)"/>
 </p>
