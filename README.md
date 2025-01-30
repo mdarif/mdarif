@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 
 # Hi there 👋
 
-<p align="center">I am a<strong> Principal Engineer @ Advisor360°</strong>, India. I am responsible for <strong>architecting</strong> and <strong>coding</strong> modern and complex technology end to end solutions. My work spans across web technology paradigm to build immersive digital experience for the company.</p>
-
+<p align="center">I am a <strong>Principal Engineer</strong> at <strong>Advisor360°, India</strong>, specializing in architecting and developing end-to-end, modern, and complex technology solutions. My expertise lies in web technologies, where I craft immersive digital experiences to drive innovation and enhance the company's technological landscape.
 <p align="center">
   <a href="mailto:arif.mohammed@gmail.com" target="_blank"><img height="40" src = "https://github.com/mdarif/mdarif/blob/main/icons/mail.png"></a>
   <a href="https://www.linkedin.com/in/mohdarif" target="_blank"><img height="40" src = "https://github.com/mdarif/mdarif/blob/main/icons/linkedin.png"></a>&nbsp;&nbsp;<a href="https://md-arif.medium.com/" target="_blank"><img height="40" src = "https://github.com/mdarif/mdarif/blob/main/icons/medium.png"></a>&nbsp;&nbsp;
@@ -54,7 +53,7 @@ Here are some ideas to get you started:
 
 <h2 align="center">⚡ Stuff I Know</h2>
  
-I work with many different technologies and languages, but my favorites are **JavaScript**, **Angular**, **RxJS**, **TypeScript**, **React.js**, **Node.js**, and **Express.js**
+I work with a variety of technologies and programming languages, but my favorites include **JavaScript**, **Angular**, **RxJS**, **TypeScript**, **React.js**, **Node.js**, and **Express.js**.
 
 <p align="center">
 <img src="https://github.com/mdarif/mdarif/blob/main/icons/js.png" height="40"> &nbsp; &nbsp;
