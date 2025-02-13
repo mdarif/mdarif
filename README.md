@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi there 👋
 
-<p align="center">I am a <strong>Principal Engineer</strong> at <strong>Advisor360°, India</strong>, specializing in architecting and developing end-to-end, modern, and complex technology solutions. My expertise lies in web technologies, where I craft immersive digital experiences to drive innovation and enhance the company's technological landscape.
+<p align="center">I am a <strong>Principal Software Engineer</strong> at <strong>Advisor360°, India</strong>, specializing in architecting and developing end-to-end, modern, and complex technology solutions. My expertise lies in web technologies, where I craft immersive digital experiences to drive innovation and enhance the company's technological landscape.
 <p align="center">
   <a href="mailto:arif.mohammed@gmail.com" target="_blank"><img height="40" src = "https://github.com/mdarif/mdarif/blob/main/icons/mail.png"></a>
   <a href="https://www.linkedin.com/in/mohdarif" target="_blank"><img height="40" src = "https://github.com/mdarif/mdarif/blob/main/icons/linkedin.png"></a>&nbsp;&nbsp;<a href="https://md-arif.medium.com/" target="_blank"><img height="40" src = "https://github.com/mdarif/mdarif/blob/main/icons/medium.png"></a>&nbsp;&nbsp;
